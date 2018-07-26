@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MultimediaModel2.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Usr">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar(max)" />
+    <Property Name="Photo" Type="varbinary(max)" />
+    <Property Name="Type" Type="int" />
+    <Property Name="Age" Type="int" />
+    <Property Name="E_mail" Type="varchar" MaxLength="100" />
+    <Property Name="Imagepath" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="MultimediaModel2StoreContainer">
+    <EntitySet Name="Usr" EntityType="Self.Usr" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

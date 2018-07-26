@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MultimediaModel2StoreContainer" CdmEntityContainer="MultimediaEntities3">
+    <EntitySetMapping Name="Usrs">
+      <EntityTypeMapping TypeName="MultimediaModel2.Usr">
+        <MappingFragment StoreEntitySet="Usr">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Age" ColumnName="Age" />
+          <ScalarProperty Name="E_mail" ColumnName="E_mail" />
+          <ScalarProperty Name="Imagepath" ColumnName="Imagepath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

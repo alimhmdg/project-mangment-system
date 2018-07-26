@@ -1,0 +1,10 @@
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\DataAccess.dll
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\obj\Debug\DataAccess.dll
+c:\users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ahmed\onedrive\music\documents\visual studio 2015\Projects\ProProject\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
